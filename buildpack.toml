@@ -27,7 +27,8 @@ api = "0.7"
     version = "2.7.0"
 
   [[order.group]]
-    uri = "docker://docker.io/80x86/go-dist:2.2.5"
+    id = "paketo-buildpacks/go-dist"
+    version = "2.2.4"
 
   [[order.group]]
     id = "paketo-buildpacks/git"
@@ -70,7 +71,8 @@ api = "0.7"
     version = "2.7.0"
 
   [[order.group]]
-    uri = "docker://docker.io/80x86/go-dist:2.2.5"
+    id = "paketo-buildpacks/go-dist"
+    version = "2.2.4"
 
   [[order.group]]
     id = "paketo-buildpacks/git"
